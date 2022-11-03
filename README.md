@@ -2,7 +2,7 @@
 Hi<br>I'm Okoro James<br>Frontend Developer ||  Dev Community Builder<br>I build responsive websites that make brands to go viral with modern technology.<br>connect with me:
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrokorojames) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamextech1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okorojames) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jamextech1) 
 
 # 💻 Tech Stack:
@@ -17,9 +17,6 @@ Hi<br>I'm Okoro James<br>Frontend Developer ||  Dev Community Builder<br>I build
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jamextech1&icon=9&color=3)](https://visitcount.itsvg.in)
