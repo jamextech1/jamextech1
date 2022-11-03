@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/jamextech1/jamextech1/blob/main/wave.gif" width="25px" height="25px"> 
+## Hi 👋 <img src="https://github.com/jamextech1/jamextech1/blob/main/wave.gif" width="25px" height="25px"> 
 ## <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e478imf102l0zn5hbsw7f3utkkjnmmsv7pzn6bws24t&rid=200w.webp&ct=g">
 
 # I'm Okoro James
