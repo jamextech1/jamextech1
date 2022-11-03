@@ -2,18 +2,18 @@
 # Hi <img src="https://github.com/timokonkwo/timokonkwo/blob/main/wave.gif" width="30px" height="30px"> 
 ## <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e478imf102l0zn5hbsw7f3utkkjnmmsv7pzn6bws24t&rid=200w.webp&ct=g">
 
-# I'm Tim Okonkwo
-## Frontend Engineer at @softamplify | Microsoft Learn Ambassador | Host Of Tech Talk | Dev Community Builder
+# I'm Okoro James
+## Frontend Developer  Dev Community Builder
 
-<p align="left">I built a tech talent community of 513+ PRO designers and developers and >2000 total community membership.</p>Got a project or need tech talents? Hit me up!
+<p align="left">I build responsive websites that make brands to go viral with mordern technology.</p>Got a project or need tech talents? Hit me up!
 
 ## 🌐 Connect With Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jamextech1_) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrokorojames) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timokonkwo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timokonkwo) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@timokonkwo) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrokorojames) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jamextech1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okorojames) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@okorojames) 
 
 * 🌍  Somewhere on the web
 * 🖥️  Portfolio 👉[timokonkwo.com](https://www.timokonkwo.com)
-* ✉️  Email me 👉 [chibuiketimokonkwo@gmail.com](mailto:chibuiketimokonkwo@gmail.com)
+* ✉️  Email me 👉 [okorojameschizaram@gmail.com](mailto:okorojameschizaram@gmail.com)
 * 🧠  Learning
 * 🤝  Open for work, freelance and Open source contributions
 
