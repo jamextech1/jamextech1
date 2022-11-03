@@ -19,7 +19,7 @@ Hi<br>I'm Okoro James<br>Frontend Developer ||  Dev Community Builder<br>I build
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jamextech1&icon=9&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jamextech1&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/okorojames) 
