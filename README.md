@@ -12,7 +12,7 @@
 
 
 * 🌍  Somewhere on the web
-* 🖥️  Portfolio 👉[okorojames.com](https://jamextech1.github.io/Portfolio_v2/)
+* 🖥️  Portfolio 👉[okorojames.com](https://jamextech1.github.io/mrokorojames/)
 * ✉️  Email me 👉 [okorojameschizaram@gmail.com](mailto:okorojameschizaram@gmail.com)
 * 🧠  Learning
 * 🤝  Open for work, freelance and Open source contributions
