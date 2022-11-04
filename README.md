@@ -1,6 +1,5 @@
 ## Hi 👋 <img src="https://github.com/jamextech1/jamextech1/blob/main/wave.gif" width="25px" height="25px"> 
 ## <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e478imf102l0zn5hbsw7f3utkkjnmmsv7pzn6bws24t&rid=200w.webp&ct=g">
-## <img src="https://www.canva.com/design/DAFQ_3VlIzk/cCc3NK72ygEl2tsMx7dOXA/edit?utm_content=DAFQ_3VlIzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 # I'm Okoro James
 ## Frontend Engineer || Dev Community Builder
