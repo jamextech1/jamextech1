@@ -13,6 +13,7 @@
 
 * 🌍  Somewhere on the web
 * 🖥️  Portfolio 👉[okorojames.com](https://jamextech1.github.io/mrokorojames/)
+* 👨🏾‍💻  CV       👉 [My CV](https://bit.ly/downloadMyCv)
 * ✉️  Email me 👉 [okorojameschizaram@gmail.com](mailto:okorojameschizaram@gmail.com)
 * 🧠  Learning
 * 🤝  Open for work, freelance and Open source contributions
