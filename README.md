@@ -38,7 +38,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 --
-[![](https://visitcount.itsvg.in/api?id=jamextech1&label=Views&color=0&icon=1&pretty=true)](https://www.visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jamextech1&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 ### 💰 Buy Me A Coffee
 
