@@ -31,6 +31,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+## Views
 [![](https://visitcount.itsvg.in/api?id=jamextech1&label=Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
   ### 💰 Buy Me A Coffee
