@@ -35,7 +35,7 @@
 
 ### 👨‍💻 GitHub Commits
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamextech1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamextech1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 
