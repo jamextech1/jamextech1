@@ -33,6 +33,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=jamextech1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 👨‍💻 GitHub Commits
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamextech1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
